@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.js": "/safepay-wallet/static/js/main.e2ade8db.js",
-    "static/media/user_preferences_bindings_wasm_bg.wasm": "/safepay-wallet/static/media/user_preferences_bindings_wasm_bg.5b66183432e2ef252edc.wasm",
+    "main.js": "/safepay-wallet/static/js/main.e5a535e6.js",
     "index.html": "/safepay-wallet/index.html"
   },
   "entrypoints": [
-    "static/js/main.e2ade8db.js"
+    "static/js/main.e5a535e6.js"
   ]
 }
